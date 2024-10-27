@@ -1,0 +1,10 @@
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox Calısması.csproj.AssemblyReference.cache
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox_Calısması.Form1.resources
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox_Calısması.Properties.Resources.resources
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox Calısması.csproj.GenerateResource.cache
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox Calısması.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\bin\Debug\LıstBox Calısması.exe.config
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\bin\Debug\LıstBox Calısması.exe
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\bin\Debug\LıstBox Calısması.pdb
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox Calısması.exe
+C:\Users\ihsan\source\repos\LıstBox Calısması\LıstBox Calısması\obj\Debug\LıstBox Calısması.pdb
